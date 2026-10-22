@@ -1,0 +1,142 @@
+[
+    {
+        "timestamp": "2026-10-16T12:14:03.295537+00:00",
+        "event": "user_feedback",
+        "details": "The previous Bitcoin analysis was too complicated."
+    },
+    {
+        "timestamp": "2026-10-16T12:14:03.297724+00:00",
+        "event": "analysis_preference",
+        "details": "The user prefers simple explanations of RSI and moving averages."
+    },
+    {
+        "timestamp": "2026-10-16T12:14:57.226488+00:00",
+        "event": "user_feedback",
+        "details": "The previous Bitcoin analysis was too complicated."
+    },
+    {
+        "timestamp": "2026-10-16T12:14:57.226488+00:00",
+        "event": "analysis_preference",
+        "details": "The user prefers simple explanations of RSI and moving averages."
+    },
+    {
+        "timestamp": "2026-10-16T12:56:57.816913+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Analyze Bitcoin and explain the RSI simply."
+    },
+    {
+        "timestamp": "2026-10-16T13:24:44.384232+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Analyze Bitcoin and explain the RSI simply."
+    },
+    {
+        "timestamp": "2026-10-16T13:26:58.011335+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: My name is Alex. Please explain Bitcoin analysis in very simple English."
+    },
+    {
+        "timestamp": "2026-10-16T13:27:11.026787+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: What is my name, and how did I ask you to explain things?"
+    },
+    {
+        "timestamp": "2026-10-16T13:41:02.901229+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Analyze Bitcoin and explain the RSI simply."
+    },
+    {
+        "timestamp": "2026-10-16T14:27:58.083482+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: From now on, explain everything in simple English."
+    },
+    {
+        "timestamp": "2026-10-16T14:29:49.582064+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: From now on, explain everything in very simple English."
+    },
+    {
+        "timestamp": "2026-10-16T14:33:30.016466+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: From now on, explain everything in very simple English."
+    },
+    {
+        "timestamp": "2026-10-18T22:39:18.320926+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Change my explanation style to beginner-friendly English. Please save this new preference."
+    },
+    {
+        "timestamp": "2026-10-18T23:05:04.576941+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Analyze Bitcoin for me. Keep the explanation clear."
+    },
+    {
+        "timestamp": "2026-10-18T23:17:14.723203+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Your previous Bitcoin analysis was too complicated. Please use simpler words and shorter explanations in future responses."
+    },
+    {
+        "timestamp": "2026-10-18T23:46:12.125635+00:00",
+        "event": "user_feedback",
+        "details": "The answer was too long. Use three short bullet points."
+    },
+    {
+        "timestamp": "2026-10-18T23:46:17.333761+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Your previous Bitcoin analysis was too complicated. Please use simpler words and shorter explanations in future responses."
+    },
+    {
+        "timestamp": "2026-10-18T23:52:52.224003+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Your previous Bitcoin analysis was too complicated. Please use simpler words and shorter explanations in future responses."
+    },
+    {
+        "timestamp": "2026-10-18T23:53:56.386625+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Your previous answer was too long. Please use three short bullet points in future responses."
+    },
+    {
+        "timestamp": "2026-10-18T23:59:01.563429+00:00",
+        "event": "user_feedback",
+        "details": "Your previous answer was too long. Please use three short bullet points in future responses."
+    },
+    {
+        "timestamp": "2026-10-19T08:22:00.626718+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Analyze Bitcoin and explain the RSI simply."
+    },
+    {
+        "timestamp": "2026-10-19T16:48:54.736625+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Analyze Bitcoin for me. Keep the explanation clear."
+    },
+    {
+        "timestamp": "2026-10-19T16:50:08.633111+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Change my explanation style to beginner-friendly English. Please save this new preference."
+    },
+    {
+        "timestamp": "2026-10-19T16:50:23.094895+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: My name is Alex. Please explain Bitcoin analysis in very simple English."
+    },
+    {
+        "timestamp": "2026-10-19T16:50:27.240107+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: What is my name, and how did I ask you to explain things?"
+    },
+    {
+        "timestamp": "2026-10-19T16:50:31.274471+00:00",
+        "event": "user_feedback",
+        "details": "Your previous answer was too long. Please use three short bullet points in future responses."
+    },
+    {
+        "timestamp": "2026-10-19T16:58:13.899602+00:00",
+        "event": "bitcoin_analysis",
+        "details": "User request: Change my explanation style to beginner-friendly English. Please save this new preference."
+    },
+    {
+        "timestamp": "2026-10-19T16:58:22.449973+00:00",
+        "event": "user_feedback",
+        "details": "Your previous answer was too long. Please use three short bullet points in future responses."
+    }
+]
